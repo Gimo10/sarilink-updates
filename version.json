@@ -1,0 +1,9 @@
+{
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/Gimo10/sarilink-updates/main/update-1.0.1.zip",
+    "sha256": "251b710ddec3d52e5a196e5d429a5795070e9a4e586ac57171db098f38c360c6",
+    "notes": "fix",
+    "clients": [
+        "3BranchesPH"
+    ]
+}
